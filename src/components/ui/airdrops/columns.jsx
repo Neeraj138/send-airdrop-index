@@ -82,7 +82,7 @@ export const columns = [
           {link}
         </a>
       ) : (
-        <div className="">--</div>
+        <div className="">{link}</div>
       );
     }
   }
