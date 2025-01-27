@@ -1,0 +1,37 @@
+{
+    "0": {
+        "projectName": "Project Plutus",
+        "ca": "76PsEyML7UV9uiBDWMdG3itRRuupDuRs6nNpjNBpump",
+        "isSendLoyaltyExclusive": true,
+        "claimType": "wallet",
+        "eligibility": "SEND Loyalty Telegram Group Member"
+    },
+    "1": {
+        "projectName": "GoatIndexAI",
+        "ca": "Goatm5cqggssKRUwbMnPhHXKtN5SDGEP57qjwTSHD1Xf",
+        "isSendLoyaltyExclusive": true,
+        "claimType": "wallet",
+        "eligibility": "SEND Loyalty Telegram Group Member"
+    },
+    "2": {
+        "projectName": "SOLYAI",
+        "ca": "FmkD8vrRaxAeXfmG6WtpUjcd3kXYcWLcNWpmjsE7pump",
+        "isSendLoyaltyExclusive": true,
+        "claimType": "wallet",
+        "eligibility": "SEND Loyalty Telegram Group Member"
+    },
+    "3": {
+        "projectName": "EDAS",
+        "ca": "kH6hPcpdJqeMAATYU7W4rzqZuzYTkYr6QqGYTLkpump",
+        "isSendLoyaltyExclusive": true,
+        "claimType": "wallet",
+        "eligibility": "Top 1000 holders"
+    },
+    "4": {
+        "projectName": "SOLID",
+        "ca": "SoLiDMWBct5TurG1LNcocemBK7QmTn4P33GSrRrcd2n",
+        "isSendLoyaltyExclusive": false,
+        "claimType": "wallet",
+        "eligibility": "Hold >200k SEND"
+    }
+}

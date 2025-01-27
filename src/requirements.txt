@@ -1,0 +1,24 @@
+- token airdropped
+- date
+- claim mode
+- how ny
+- exclusive to sendma loyalty or no
+- worth today 
+- worth during airdrop
+- ath of token
+
+table row
+- token icon
+- token name
+- token ticker
+- token address
+- exclusive to send loyalty or no?
+- token airdrop date
+- x link
+- claim mode
+- claim link if not direct airdrop
+- worth today
+- worth during airdrop
+- all time high of token
+- birdeye link
+- dexscreener link
