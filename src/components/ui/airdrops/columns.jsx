@@ -47,6 +47,13 @@ export const columns = [
     }
   },
   {
+    header: "Approx. ATH Value in USD",
+    cell: ({ row }) => {
+      const currVal = parseFloat(row.original.athPrice * row.getValue("approxTokensAirdropped"))
+      return currVal.toFixed(2)
+    }
+  },
+  {
     header: "Eligibility",
     accessorKey: "eligibility"
   },

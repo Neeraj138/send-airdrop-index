@@ -51,7 +51,8 @@ export default function DemoPage() {
       announcementLink: item.announcementLink,
       claimLink: item.claimLink,
       directWallet: item.directWallet,
-      approxTokensAirdropped: item.approxTokensAirdropped
+      approxTokensAirdropped: item.approxTokensAirdropped,
+      athPrice: item.athPrice
     };
   });
 
