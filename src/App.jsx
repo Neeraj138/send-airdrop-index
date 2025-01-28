@@ -34,11 +34,70 @@ function App() {
         </p>
       </div>
 
+      {/* Ecosystem Section */}
+      <div className="flex flex-col items-center justify-center my-10">
+        <div className="relative w-64 h-64">
+          {/* Center Image */}
+          <img
+            src="/sendit.jpg"
+            alt="sendit"
+            className="absolute w-32 h-32 rounded-full border-4 border-blue-300"
+            style={{
+              top: "50%",
+              left: "50%",
+              transform: "translate(-50%, -50%)",
+            }}
+          />
+          {/* Derivative Images */}
+          <img
+            src="/ideasdotfun.jpg"
+            alt="ideasdotfun"
+            className="absolute w-20 h-20 rounded-full border-4 border-blue-300"
+            style={{
+              top: "10%",
+              left: "50%",
+              transform: "translate(-50%, -50%)",
+            }}
+          />
+          <img
+            src="/sendaifun.jpg"
+            alt="sendaifun"
+            className="absolute w-20 h-20 rounded-full border-4 border-blue-300"
+            style={{
+              top: "50%",
+              left: "10%",
+              transform: "translate(-50%, -50%)",
+            }}
+          />
+          <img
+            src="/trai.png"
+            alt="trai"
+            className="absolute w-20 h-20 rounded-full border-4 border-blue-300"
+            style={{
+              bottom: "10%",
+              left: "50%",
+              transform: "translate(-50%, 50%)",
+            }}
+          />
+          <img
+            src="/sendarcade.jpg"
+            alt="sendarcade"
+            className="absolute w-20 h-20 rounded-full border-4 border-blue-300"
+            style={{
+              top: "50%",
+              right: "10%",
+              transform: "translate(50%, -50%)",
+            }}
+          />
+        </div>
+      </div>
+
       {/* Table Section */}
       <div className="m-auto max-w-7xl p-4">
         <DemoPage />
       </div>
 
+      {/* Footer Section */}
       <footer className="text-center py-4 rounded-t-lg">
         <p className="text-blue-100 text-xl">
           Buy me a chocolate! 🍫 Send $SEND or $SOL to:{" "}
